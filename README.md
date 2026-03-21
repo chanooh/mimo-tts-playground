@@ -2,6 +2,9 @@
 
 一个基于小米 MiMo-V2-TTS 语音合成模型的桌面客户端，支持 GUI 操作和即时播放。
 
+<img width="682" height="652" alt="image" src="https://github.com/user-attachments/assets/f9670cd4-cc18-453f-9ffa-66bd6d589786" />
+
+
 ## 技术栈
 
 | 组件 | 说明 |
