@@ -1,4 +1,6 @@
 # Python
+.venv/
+.venv-tk/
 __pycache__/
 *.py[cod]
 *.pyo
